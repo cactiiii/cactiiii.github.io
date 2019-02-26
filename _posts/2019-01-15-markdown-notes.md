@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: my_post
 ---
 
 浓缩的是精华
