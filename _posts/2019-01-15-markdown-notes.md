@@ -1,6 +1,6 @@
 ---
 layout: my_post
-categories: [other2]
+categories: [other]
 ---
 
 浓缩的是精华
