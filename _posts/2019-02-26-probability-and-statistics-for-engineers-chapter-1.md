@@ -1,7 +1,7 @@
 ---
 layout: my_post
 categories: [probability and statistics]
-title: Chapter 1 Introduction
+title: Chapter 1\: Introduction 2
 ---
 
 ## hello
