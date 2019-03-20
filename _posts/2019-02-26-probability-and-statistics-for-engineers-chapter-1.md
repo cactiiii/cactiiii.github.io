@@ -54,7 +54,7 @@ title: "Chapter 1: Introduction"
 
 $$\frac{214+211+218}{3}=\frac{643}{3}=214.3$$
 
-这个值是标记为\\(\overlinex\\)的行的第一个条目。
+这个值是标记为\\(\overline x\\)的行的第一个条目。
 
 
 ## hello
