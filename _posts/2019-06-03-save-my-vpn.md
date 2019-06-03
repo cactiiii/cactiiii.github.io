@@ -16,7 +16,6 @@ vultr上搭建的vpn最近被完全墙掉了，到达了它生命周期（流畅
 新买了kvmla香港的vps，每个月打完折64人民币，先从安装兼容anyconnect的ocserv（openconnect server)开始。[代码](https://gitlab.com/openconnect/ocserv/tree/master)，[主页](http://ocserv.gitlab.io/www/manual.html)。
 
 centos安装epel源的方法：
-
-1 Download latest epel-release rpm from http://download-ib01.fedoraproject.org/pub/epel/7/x86_64/
-2 Install epel-release rpm: # rpm -Uvh epel-release*rpm
+1. Download latest epel-release rpm from http://download-ib01.fedoraproject.org/pub/epel/7/x86_64/
+2. Install epel-release rpm: # rpm -Uvh epel-release*rpm
 
