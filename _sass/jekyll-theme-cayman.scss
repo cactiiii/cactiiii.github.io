@@ -161,7 +161,8 @@ a {
 
 .main-content {
   word-wrap: break-word;
-  letter-spacing: 3px;
+  letter-spacing: 1rem;
+  word-spacing: 1rem;
 
   :first-child {
     margin-top: 0;
