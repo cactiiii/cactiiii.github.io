@@ -7,7 +7,20 @@ categories: [paper translate]
 决定自己收集训练数据，搭建模型，训练一个语音识别的demo
 
 ### 训练数据收集
-* 
+* common voice 7.0 2GB 63h [链接](https://commonvoice.mozilla.org/zh-CN/datasets)
+* common voice 单词目标句段 4GB 82h [链接](https://commonvoice.mozilla.org/zh-CN/datasets)
+* [libri speech](https://www.openslr.org/12) 英文的 暂时用不上
+* [Free ST Chinese Mandarin Corpus](https://link.zhihu.com/?target=http%3A//www.openslr.org/resources/38/ST-CMDS-20170001_1-OS.tar.gz) 没找到简介。。
+* [Primewords Chinese Corpus Set 1](https://link.zhihu.com/?target=http%3A//www.openslr.org/resources/47/primewords_md_2018_set1.tar.gz)
+* [THCHS30](https://link.zhihu.com/?target=https%3A//link.ailemon.me/%3Ftarget%3Dhttp%3A//www.openslr.org/resources/18/data_thchs30.tgz)
+* [MAGICDATA Mandarin Chinese Read Speech Corpus](https://blog.ailemon.net/2018/11/21/free-open-source-chinese-speech-datasets/) 包含4个压缩包
+* [aishell-1](http://www.openslr.org/33/) 2个压缩包
+* [aishell-3](http://www.openslr.org/93/)
+* [aishell-2](https://github.com/kaldi-asr/kaldi/tree/master/egs/aishell2) 需要申请。。
+* [MobvoiHotwords](https://link.zhihu.com/?target=https%3A//link.ailemon.me/%3Ftarget%3Dhttp%3A//openslr.magicdatatech.com/resources/87/mobvoi_hotword_dataset.tgz)
+* [数据堂](https://www.datatang.com/opensource)需要申请，并线下去拷贝。。
+* [数据堂200h](https://www.datatang.com/opensource)
+
 
 ### 理论知识
 * LAS模型：[链接](https://arxiv.org/pdf/1508.01211.pdf)，稍微简单点
