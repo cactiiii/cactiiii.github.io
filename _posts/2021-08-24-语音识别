@@ -1,1 +1,16 @@
+---
+layout: my_post
+categories: [paper translate]
+---
 
+### 前言
+决定自己收集训练数据，搭建模型，训练一个语音识别的demo
+
+### 训练数据收集
+* 
+
+### 理论知识
+* LAS模型：[链接](https://arxiv.org/pdf/1508.01211.pdf)，稍微简单点
+
+### 实践参考
+* 来自知乎：[链接](https://zhuanlan.zhihu.com/p/80384998)
