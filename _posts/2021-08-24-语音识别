@@ -26,6 +26,7 @@ categories: [paper translate]
 
 ### 理论知识
 * LAS模型：[链接](https://arxiv.org/pdf/1508.01211.pdf)，稍微简单点
+* 用RNN-T做的：[链接](https://zhuanlan.zhihu.com/p/146832796?ivk_sa=1024320u)
 
 ### 实践参考
 * 来自知乎：[链接](https://zhuanlan.zhihu.com/p/80384998)
