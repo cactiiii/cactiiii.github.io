@@ -38,3 +38,6 @@ categories: [paper translate]
 * [didi实验室](https://github.com/athena-team/athena)
 * [las的两个实现1](https://github.com/kaituoxu/Listen-Attend-Spell) [中文教程](https://blog.csdn.net/u012969412/article/details/93497946) 
 * [las的两个实现2](https://github.com/whull/end2end_ASR)
+
+### 动手实践
+* 决定先试一下[deepspeech1](https://github.com/mozilla/DeepSpeech)
