@@ -39,5 +39,10 @@ categories: [paper translate]
 * [las的两个实现1](https://github.com/kaituoxu/Listen-Attend-Spell) [中文教程](https://blog.csdn.net/u012969412/article/details/93497946) 
 * [las的两个实现2](https://github.com/whull/end2end_ASR)
 
+### 拼音转换
+* [pinyin2chinese](https://github.com/liuhuanyong/Pinyin2Chinese)
+* 拼音->中文：[simpleChinese2](https://github.com/chenmingxiang110/SimpleChinese2)
+* 中文->拼音：[pinyin](https://github.com/overtrue/pinyin)
+
 ### 动手实践
 * 决定先试一下[deepspeech1](https://github.com/mozilla/DeepSpeech)
