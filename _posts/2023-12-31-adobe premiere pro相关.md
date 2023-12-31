@@ -13,6 +13,7 @@ adobe premiere pro俗称PR，是视频剪辑的终极软件，但是正版竟然
     * [https://pan.baidu.com/s/1AMHRv86rUwrBqsla3NIZkA?pwd=2023](https://pan.baidu.com/s/1AMHRv86rUwrBqsla3NIZkA?pwd=2023)
     * [https://pan.baidu.com/s/1pLxYkf98zgmObcgl_WOY5w?pwd=9ivp](https://pan.baidu.com/s/1pLxYkf98zgmObcgl_WOY5w?pwd=9ivp)
     * [https://pan.baidu.com/s/1KpRb4ic9Cy5HaTREdcxRww?pwd=dmy3](https://pan.baidu.com/s/1KpRb4ic9Cy5HaTREdcxRww?pwd=dmy3)
+    * [https://pan.baidu.com/s/1eT32ntYjsNLfcl0MzsGmHw?pwd=gwc](https://pan.baidu.com/s/1eT32ntYjsNLfcl0MzsGmHw?pwd=gwc)(比较全)
   * 继vposy后，好像有个叫m0nkrus的大神继续了事业，有些网盘目测长期follow更新：
     * [https://pan.baidu.com/s/1hJZtjUWLQ-RGV5CGGKPO8w?pwd=2023](https://pan.baidu.com/s/1hJZtjUWLQ-RGV5CGGKPO8w?pwd=2023)
     * [https://pan.baidu.com/s/15uUm4nJ97Dom-zKi5DnzlQ, 密码是bang](https://pan.baidu.com/s/15uUm4nJ97Dom-zKi5DnzlQ)
