@@ -5,5 +5,5 @@
 单调栈解决不了的问题，最长递增子序列，思路比较清奇：
 * https://leetcode.cn/problems/longest-increasing-subsequence/solutions/147667/zui-chang-shang-sheng-zi-xu-lie-by-leetcode-soluti/
 
-#1124 又是单调栈
+#1124 又是单调栈。单调栈一般情况下入栈是需要pop的，但这道题对应的入栈不是pop，而是丢弃当前item。两者其实是等价的，只是遍历顺序不一样导致入栈操作差异。
 * https://leetcode.com/problems/longest-well-performing-interval/description/
